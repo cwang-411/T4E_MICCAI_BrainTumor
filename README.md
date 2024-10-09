@@ -1,4 +1,5 @@
 # RSNA-MICCAI 2021 Brain Tumor Challenge
+Article:https://arxiv.org/pdf/2107.02314v2
 ## 1. Hardware specification
 Here is the hardware we used to produce the result
   - CPU specs: Intel(R) Xeon(R) CPU E5-2698 v4 @ 2.20 GHz
